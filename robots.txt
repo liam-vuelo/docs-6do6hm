@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-b78pb2.rtb-system.online/sitemap.xml
